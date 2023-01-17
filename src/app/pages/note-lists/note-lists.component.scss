@@ -1,0 +1,16 @@
+@import "bulma/sass/grid/columns.sass";
+
+
+.main-container {
+  display: flex;
+  max-width: 240px;
+  flex-direction: column;
+  padding-top: 24px;
+  margin-left: 80%;
+}
+
+.notes-list {
+  display: flex;
+  justify-content: center;
+
+}
